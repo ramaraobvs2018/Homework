@@ -14,7 +14,8 @@ Live app, http://thombrcal.gweb.io
   3 => headerContent2, footerContent1, bodyContent3, advertisement1
 
 * Design a navigation system to efficiently render pages to HTML. Example:
-render( 0 ) render( 3 ) render( 1 )
+
+  render( 0 ) render( 3 ) render( 1 )
 
 ### Notes
 
